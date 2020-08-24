@@ -1,7 +1,5 @@
 # RGB_with_MIC
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
 # Arduino-RGB_with_MIC
 
 > Arduino code interfacing RGB with MIC
