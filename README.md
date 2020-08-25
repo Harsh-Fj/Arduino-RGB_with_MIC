@@ -19,12 +19,9 @@
 3. Arduino MIC Module
 4. Arduino RGB Module
 5. Resistors
+---
+### Schematic
+---
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Harsh-Fj/Arduino-RGB_with_MIC/blob/master/RGB.png)]()
 
 ---
-
-## Support
-
-Reach out to me at one of the following places!
-
-Connect with me via LinkedIn - harsh24
-Instagram - harshfj
